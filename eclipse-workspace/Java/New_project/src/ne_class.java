@@ -5,6 +5,6 @@ public class ne_class
 	public static void main(String[] args) 
 	{
 		
-		System.out.print("woho test ");
+		System.out.print("woho test lets see if this works");
 	}
 }
